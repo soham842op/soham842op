@@ -70,7 +70,5 @@ I'm actively deepening my expertise in data science and analytics—working on e
   <img alt="github-snake" src="https://raw.githubusercontent.com/soham842op/soham842op/output/github-snake.svg" />
 </picture>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/soham842op/count.svg?"  />
-</div>
+
 
