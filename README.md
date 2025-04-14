@@ -1,5 +1,13 @@
 <h1 align="left">Hi 👋! My name is Soham Shah and I'm a Computer Science Student, from Arizona State University</h1>
 
+
+
+### 🧠 About Me:
+
+I’m passionately integrating advanced machine learning models and AI-driven systems to address real-world challenges. My focus lies in developing predictive analytics pipelines to forecast outcomes and enhance strategic decision-making. With a strong foundation in deep learning, time-series modeling, and NLP, I leverage big data technologies to efficiently process and analyze large datasets, while utilizing optimization techniques to ensure scalable and high-performing solutions in production.
+
+I'm actively deepening my expertise in data science and analytics—working on extracting actionable insights from complex datasets, building interpretable models, and driving informed business strategies. I’m always eager to collaborate on impactful projects where data becomes a catalyst for innovation and measurable outcomes.
+
 ###
 
 <div align="center">
