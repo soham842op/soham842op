@@ -59,10 +59,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soham842op/soham842op/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/soham842op/soham842op/output/github-snake.svg" />
 </picture>
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/soham842op/count.svg?"  />
 </div>
 
-###
