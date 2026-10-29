@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Soham Shah</title>
+  <desc id="d">AI/ML Engineer building LLM apps, RAG systems and MLOps pipelines</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#151a3d"/>
+      <stop offset="1" stop-color="#26206b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#c4b5fd"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.45" r="0.45">
+      <stop offset="0" stop-color="#6366f1" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+
+  <!-- neural-net motif -->
+  <g transform="translate(60,0)">
+  <g stroke="#a5b4fc" stroke-opacity="0.35" stroke-width="1.5">
+    <line x1="880" y1="80" x2="980" y2="60"/><line x1="880" y1="80" x2="980" y2="150"/><line x1="880" y1="80" x2="980" y2="240"/>
+    <line x1="880" y1="150" x2="980" y2="60"/><line x1="880" y1="150" x2="980" y2="150"/><line x1="880" y1="150" x2="980" y2="240"/>
+    <line x1="880" y1="220" x2="980" y2="60"/><line x1="880" y1="220" x2="980" y2="150"/><line x1="880" y1="220" x2="980" y2="240"/>
+    <line x1="980" y1="60" x2="1080" y2="110"/><line x1="980" y1="150" x2="1080" y2="110"/><line x1="980" y1="240" x2="1080" y2="110"/>
+    <line x1="980" y1="60" x2="1080" y2="190"/><line x1="980" y1="150" x2="1080" y2="190"/><line x1="980" y1="240" x2="1080" y2="190"/>
+  </g>
+  <g fill="#0b1020" stroke="#a5b4fc" stroke-width="3">
+    <circle cx="880" cy="80" r="11"/><circle cx="880" cy="150" r="11"/><circle cx="880" cy="220" r="11"/>
+    <circle cx="980" cy="60" r="11"/><circle cx="980" cy="240" r="11"/>
+    <circle cx="1080" cy="110" r="11"/><circle cx="1080" cy="190" r="11"/>
+  </g>
+  <circle cx="980" cy="150" r="14" fill="#818cf8" stroke="#c4b5fd" stroke-width="3"/>
+
+  </g>
+
+  <!-- text -->
+  <text x="70" y="140" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="88" font-weight="700" fill="#f8fafc" letter-spacing="-1">Soham Shah</text>
+  <rect x="72" y="166" width="120" height="6" rx="3" fill="url(#accent)"/>
+  <text x="70" y="226" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="40" font-weight="600" fill="#c7d2fe">AI/ML Engineer · LLM Apps · RAG · MLOps</text>
+</svg>
