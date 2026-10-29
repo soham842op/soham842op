@@ -1,0 +1,32 @@
+name: Contribution snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # Colors match the profile's midnight + cobalt theme
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-cobalt-light.svg?palette=github-light&color_snake=#0047ab&color_dots=#ebedf0,#c9d9f5,#93b4ec,#4b84e8,#0047ab
+            dist/snake-cobalt-dark.svg?palette=github-dark&color_snake=#4b84e8&color_dots=#161b22,#0b2a5e,#123f8f,#2a64d6,#6f9dff
+
+      - uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update snake animation [skip ci]"
