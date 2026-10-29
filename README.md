@@ -5,9 +5,9 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/soham-shah842/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-soham--shah842-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:sshah270@asu.edu"><img alt="Email" src="https://img.shields.io/badge/Email-sshah270%40asu.edu-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://live-docs-ten-neon.vercel.app"><img alt="LiveDocs live demo" src="https://img.shields.io/badge/Live_Demo-LiveDocs-db2777?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/soham-shah842/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-soham--shah842-0047ab?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:sshah270@asu.edu"><img alt="Email" src="https://img.shields.io/badge/Email-sshah270%40asu.edu-1f5eff?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://live-docs-ten-neon.vercel.app"><img alt="LiveDocs live demo" src="https://img.shields.io/badge/Live_Demo-LiveDocs-0a1a3f?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 <picture>
@@ -44,7 +44,7 @@
   <img alt="03 Open source" src="./assets/sections/oss-light.svg" width="100%">
 </picture>
 
-**[Don't Be Michael](https://github.com/agentvivekkumar/dontbemichael)** · a multi-agent desktop app built on Claude Code &nbsp;![stars](https://img.shields.io/badge/★_590+-1e1b4b?style=flat-square) ![MIT](https://img.shields.io/badge/MIT-1e1b4b?style=flat-square)
+**[Don't Be Michael](https://github.com/agentvivekkumar/dontbemichael)** · a multi-agent desktop app built on Claude Code &nbsp;![stars](https://img.shields.io/badge/★_590+-0a1a3f?style=flat-square) ![MIT](https://img.shields.io/badge/MIT-0a1a3f?style=flat-square)
 
 | PR | Status | What I did |
 |:--|:--|:--|
@@ -56,7 +56,7 @@
   <img alt="04 Publication" src="./assets/sections/publication-light.svg" width="100%">
 </picture>
 
-> **Springer chapter · Reinforcement learning for algorithmic trading** &nbsp;[![Read the paper](https://img.shields.io/badge/Read_the_paper-4f46e5?style=flat-square&logo=springer&logoColor=white)](https://link.springer.com/chapter/10.1007/978-981-96-2179-8_31)
+> **Springer chapter · Reinforcement learning for algorithmic trading** &nbsp;[![Read the paper](https://img.shields.io/badge/Read_the_paper-0047ab?style=flat-square&logo=springer&logoColor=white)](https://link.springer.com/chapter/10.1007/978-981-96-2179-8_31)
 >
 > Compared Actor-Critic, Policy Gradient, Q-Learning and Double Dueling Q-Learning on Larsen & Toubro stock data; **Policy Gradient led with a 43.95% ROI**.
 

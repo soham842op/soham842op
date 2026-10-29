@@ -17,22 +17,23 @@ CW = 0.6  # monospace advance in em; enforced with textLength so layout is font-
 
 THEMES = {
     "dark": dict(
-        bg0="#070a1a", bg1="#0e1236", bg2="#1d1660",
-        text="#f8fafc", sub="#c7d2fe", muted="#94a3b8",
-        a1="#818cf8", a2="#c084fc", a3="#f472b6",
-        line="#a5b4fc", panel="#0b0f2b", node="#0b0f2b", ok="#34d399",
+        # midnight black + cobalt blue
+        bg0="#020409", bg1="#050b1c", bg2="#0a2a6e",
+        text="#f8fafc", sub="#bcd3ff", muted="#8a9bb8",
+        a1="#4d8dff", a2="#1f5eff", a3="#8fbcff",
+        line="#6f9dff", panel="#04070f", node="#020409", ok="#34d399",
         edge="#ffffff", edge_op=0.09, tint="#ffffff", tint_op=0.04,
-        blob_op=0.42, dot="#ffffff", dot_op=0.10, shine="#ffffff",
-        wave0="#151a3d", wave1="#26206b",
+        blob_op=0.5, dot="#ffffff", dot_op=0.10, shine="#ffffff",
+        wave0="#050b1c", wave1="#0a2a6e",
     ),
     "light": dict(
-        bg0="#ffffff", bg1="#f5f3ff", bg2="#e4e0ff",
-        text="#1e1b4b", sub="#4338ca", muted="#64748b",
-        a1="#4f46e5", a2="#7c3aed", a3="#db2777",
-        line="#6366f1", panel="#ffffff", node="#ffffff", ok="#059669",
-        edge="#4f46e5", edge_op=0.18, tint="#4f46e5", tint_op=0.05,
-        blob_op=0.22, dot="#312e81", dot_op=0.10, shine="#ffffff",
-        wave0="#eef0ff", wave1="#dcdcfe",
+        bg0="#ffffff", bg1="#eef3ff", bg2="#d3e0ff",
+        text="#060b18", sub="#0047ab", muted="#4b5568",
+        a1="#0047ab", a2="#1f5eff", a3="#3b82f6",
+        line="#0047ab", panel="#ffffff", node="#ffffff", ok="#059669",
+        edge="#0047ab", edge_op=0.18, tint="#0047ab", tint_op=0.05,
+        blob_op=0.22, dot="#060b18", dot_op=0.10, shine="#ffffff",
+        wave0="#eef3ff", wave1="#d3e0ff",
     ),
 }
 
